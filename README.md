@@ -44,7 +44,12 @@ displayed at the PC monitor. Then the same prompt should be displayed to ask
 for the next user input. If the user enters any character other than S or T, then the
 screen should display and error and ask the user to enter S or T.
 
+# Flow-Chart
+
 ![alt text](https://i.imgur.com/c9ZkAhS.png)
+
+# Screenshots
+
 ![alt text](https://i.imgur.com/0nQuDsb.png)
 ![alt text](https://i.imgur.com/uRwRpLJ.png)
 ![alt text](https://i.imgur.com/EiuwFLe.png)
